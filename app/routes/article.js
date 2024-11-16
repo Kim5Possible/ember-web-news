@@ -11,4 +11,15 @@ export default class ArticleRoute extends Route {
         return article;
       });
   }
+
+  constructor() {
+    super(...arguments);
+    const body = document.querySelector('body');
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+      body.classList.add('dark');
+    } else {
+      body.classList.remove('dark');
+    }
+  }
 }

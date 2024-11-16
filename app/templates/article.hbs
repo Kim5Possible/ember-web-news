@@ -24,9 +24,23 @@
     </div>
     <div class="p-6">
 
-      <div
-        class="mb-4 rounded-full bg-teal-600 py-0.5 px-2.5 border border-transparent text-xs text-white transition-all shadow-sm w-20 text-center"
-      >News</div>
+      <div class="mb-4 flex items-center justify-between">
+        <div
+          class="rounded-full bg-teal-600 py-0.5 px-2.5 border border-transparent text-xs text-white transition-all shadow-sm w-20 text-center"
+        >News</div>
+
+        <div class="relative">
+          <button
+            {{on "click" this.copyLink}}
+            class="text-slate-600 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-100"
+          >Copy Link</button>
+          {{#if this.copiedLink}}
+            <div
+              class="absolute top-0 right-20 py-1 px-2 bg-white border border-slate-200 rounded-full text-xs text-slate-600 dark:text-slate-400"
+            >Copied</div>
+          {{/if}}
+        </div>
+      </div>
       <h4 class="mb-2 text-slate-800 dark:text-slate-100 text-xl font-semibold">
         {{@model.title}}
       </h4>
