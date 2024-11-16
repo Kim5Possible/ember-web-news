@@ -8,4 +8,5 @@ export default class Router extends EmberRouter {
 
 Router.map(function () {
   this.route('news-list', { path: '/' });
+  this.route('article', { path: '/article/:id' });
 });

@@ -2,7 +2,7 @@
   "articles": [
     {
       "source": {
-        "id": 1,
+        "id": "1",
         "name": "The Washington Post"
       },
       "author": "Andrew Jeong",
@@ -11,11 +11,11 @@
       "url": "https://www.washingtonpost.com/climate-environment/2024/11/14/supermoon-beaver-moon-friday/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OXFKHTRIUX7LDPH6TH7CRYBV7Y_size-normalized.jpg&w=1440",
       "publishedAt": "2024-11-14T12:17:28Z",
-      "content": "The last supermoon of the year which is also a beaver moon will hit peak illumination Friday around 4:29 p.m. Eastern time.\r\nA supermoon occurs when a full moon coincides with the moons closest point… [+285 chars]"
+      "content": "The last supermoon of the year which is also a beaver moon will hit peak illumination Friday around 4:29 p.m. Eastern time. Divider This moon will coincide with other celestial events, including the Leonid meteor shower and the Pleiades star cluster. Divider A supermoon is defined as an astronomical phenomenon where a full moon looks larger and brighter than usual. It happens when the full moon occurs at the same time when it is closest to the Earth in its orbit. Divider The term “supermoon” was coined by astrologer Richard Nolle in 1979 to describe a full moon that occurs when the moon is “within 90 percent of its closest to Earth”. Divider At the opposite end of the moon sighting spectrum is the micromoon – when the full moon looks especially small and dull because it coincides with the point in the moon’s orbit when it is farthest from the Earth.  "
     },
     {
       "source": {
-        "id": 2,
+        "id": "2",
         "name": "CNBC"
       },
       "author": "Gabrielle Fonrouge",
@@ -24,11 +24,11 @@
       "url": "https://www.cnbc.com/2024/11/14/capri-and-tapestry-abandon-plans-to-merge.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107401240-1713196300302-gettyimages-1606098539-dsc06442_o8hdtnbn.jpeg?v=1731588014&w=1920&h=1080",
       "publishedAt": "2024-11-14T11:50:34Z",
-      "content": "Capri and Tapestry called off their merger on Thursday after the Federal Trade Commission successfully sued to block the megadeal.\r\nThe two U.S.-based luxury houses \"mutually agreed\" that terminating… [+3011 chars]"
+      "content": "Capri and Tapestry called off their merger on Thursday after the Federal Trade Commission successfully sued to block the megadeal. Divider The two U.S.-based luxury houses “mutually agreed” that terminating the merger was in their best interests as they were unlikely to get regulatory approval before the deal was set to expire in February, according to a news release. Divider “With the termination of the merger agreement, we are now focusing on the future of Capri and our three iconic luxury houses,” Capri CEO John Idol said in a statement. “Looking ahead, I remain confident in Capri’s long-term growth potential for numerous reasons.” Divider The $8.5 billion acquisition, originally announced in August 2023, would have married America’s two largest luxury houses and put six fashion brands under one company: Tapestry’s Coach, Kate Spade and Stuart Weitzman with Capri’s Versace, Jimmy Choo and Michael Kors. "
     },
     {
       "source": {
-        "id": 3,
+        "id": "3",
         "name": "BBC News"
       },
       "author": "Jhon Maison",
@@ -37,11 +37,11 @@
       "url": "https://www.bbc.com/news/articles/clyv0yp130go",
       "urlToImage": "https://metro.co.uk/wp-content/uploads/2024/11/SEI_229691726-1509.jpg?quality=90&strip=all&zoom=1&resize=644%2C338",
       "publishedAt": "2024-11-14T11:14:46Z",
-      "content": "Amazon has launched a new outlet called Haul which caps the price of products on sale at $20 (£15.79), in an effort to take on low-cost retailers Temu and Shein.\r\nThe online shopping giant unveiled H… [+2108 chars]"
+      "content": "Amazon has launched a new outlet called Haul which caps the price of products on sale at $20 (£15.79), in an effort to take on low-cost retailers Temu and Shein. Divider The online shopping giant unveiled Haul as a mobile-only experience available in its Shopping app for US customers on Wednesday. Divider It says shoppers can expect “crazy low prices” on Haul products that are “worth the wait” of up to two weeks for delivery. Divider Amazon’s Chinese e-commerce rivals have enjoyed rapid growth in recent years but also faced criticism over the environmental impact of making and shipping ever more cheap products. Divider “Temu and Shein have faced backlash both for taking advantage of import loopholes and for being wasteful and environmentally irresponsible,” Forrester retail analyst Sucharita Kodali told BBC News. Divider “This effort seems to have the same challenges,” she said of Amazon Haul."
     },
     {
       "source": {
-        "id": 4,
+        "id": "4",
         "name": "BBC News"
       },
       "author": "BBC News",
@@ -50,11 +50,11 @@
       "url": "https://www.bbc.com/news/articles/cd9nze488gxo",
       "urlToImage": "https://www.fbcnews.com.fj/wp-content/uploads/2024/11/world-8.jpg",
       "publishedAt": "2024-11-14T10:39:10Z",
-      "content": "Lebanon's health ministry said three children and three women were among the those killed in Aramoun\r\nThe rescue workers had just left when we arrived at the scene of an Israeli air strike on a build… [+3978 chars]"
+      "content": "Lebanon's health ministry said three children and three women were among the those killed in Aramoun Divider The rescue workers had just left when we arrived at the scene of an Israeli air strike on a build Praesent gravida tincidunt interdum. Phasellus imperdiet vehicula nisl rutrum vestibulum. Quisque at lorem ut arcu sodales consectetur laoreet non mauris. Vestibulum dignissim elementum tortor eget efficitur. Divider In rhoncus eu neque sit amet iaculis. Suspendisse venenatis interdum risus, at hendrerit leo dictum in. Nulla ac enim ornare, congue augue nec, commodo lorem."
     },
     {
       "source": {
-        "id": 5,
+        "id": "5",
         "name": "CNN"
       },
       "author": "Allison Chinchar, Caitlin Danaher, Mia Alberti, Pau Mosquera",
@@ -63,11 +63,11 @@
       "url": "https://www.cnn.com/2024/11/13/europe/spain-rain-thousands-evacuated-malaga-intl-latam/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2183878452.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-11-14T10:32:00Z",
-      "content": "Severe thunderstorms and torrential rain have again battered coastal Spain, causing thousands of people to be evacuated just two weeks after the country experienced deadly flooding in Valencia and ot… [+2555 chars]"
+      "content": "Severe thunderstorms and torrential rain have again battered coastal Spain, causing thousands of people to be evacuated just two weeks after the country experienced deadly flooding in Valencia and and other nearby communities. Divider Over 4,000 people and a thousand homes have been evacuated in the Malaga area, according to a Thursday update from Antonio Sanz, the director of the Emergency Plan for the Risk of Flooding in Andalucia. Divider Five areas near the Guadalhorce riverbank were preemptively evacuated due to the risk of overflowing. Divider In just one hour, nearly a month’s worth of rainfall inundated the city of Malaga, in Spain’s Andalusia region, according to the country’s meteorological agency AEMet. The southern Spanish province picked up roughly 100 millimeters (4 inches) of rain so far on Wednesday, 78 millimeters (3 inches) of which fell within an hour. Malaga normally averages 100.5 millimeters in the month of November."
     },
     {
       "source": {
-        "id": 6,
+        "id": "6",
         "name": "CNBC"
       },
       "author": "Brian Evans, Sarah Min",
@@ -76,11 +76,11 @@
       "url": "https://www.cnbc.com/2024/11/13/stock-market-today-live-updates.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108058900-17309038612024-11-06t143609z_1552065979_rc2qzaazjcpd_rtrmadp_0_usa-election-stocks.jpeg?v=1730903885&w=1920&h=1080",
       "publishedAt": "2024-11-14T10:31:00Z",
-      "content": "U.S. stock futures rose slightly Thursday, as investors tried to recapture the postelection momentum that brought the major averages to record highs.\r\nDow Jones Industrial Average futures gained 83 p… [+1736 chars]"
+      "content": "U.S. stock futures rose slightly Thursday, as investors tried to recapture the postelection momentum that brought the major averages to record highs. Divider Futures for the Dow Jones Industrials gained 105 points, or 0.2%, to 44,212. Divider Futures for the S&P 500 forged ahead 5.75 points, or 0.1%, to 6,021.75. Futures for the NASDAQ Composite Index moved up 5.25 points to 21,165.25. Divider Disney shares popped 8% after the media giant reported better-than-expected fiscal fourth-quarter results. The company got a boost from strong streaming growth driving its entertainment business. Divider On the economic front, the October producer price index will be released Thursday, and the retail sales report is due out Friday. Fed Chair Jerome Powell is set to speak Thursday in Dallas, Texas."
     },
     {
       "source": {
-        "id": 7,
+        "id": "7",
         "name": "Financial Times"
       },
       "author": "Felicia Schwartz",
@@ -89,11 +89,11 @@
       "url": "https://www.ft.com/content/562c9e87-dabd-40d8-a412-c579ff49d8f2",
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e9b9d7a-0c3c-4d02-8962-6ee1de4270d4.jpg?source=next-barrier-page",
       "publishedAt": "2024-11-14T10:00:41Z",
-      "content": "The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n\u003Cul\u003E\u003Cli\u003E\u003C/li\u003EGlobal news &amp; analysis\u003Cli\u003E\u003C/li\u003EExpert opinion… [+2640 chars]"
+      "content": "The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App. Divider Global news &amp; analysis Divider Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit imperdiet risus et pretium. Ut venenatis scelerisque augue, nec dignissim lorem. Aliquam erat volutpat. Pellentesque ac lacus ipsum. Mauris et nibh consequat, auctor magna sit amet, vestibulum lorem. Proin hendrerit accumsan turpis vitae sodales. Vestibulum ac elit tincidunt orci elementum iaculis eu eu augue. Divider Morbi tempor eros enim, a lacinia purus laoreet vel. In placerat aliquam nunc, id lacinia odio molestie vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et velit libero. Morbi commodo leo ut nisi porta interdum."
     },
     {
       "source": {
-        "id": 8,
+        "id": "8",
         "name": "CNN"
       },
       "author": "Ben Morse",
@@ -102,11 +102,11 @@
       "url": "https://www.cnn.com/2024/11/14/sport/mike-tyson-jake-paul-boxing-neurological-concerns-spt-intl/index.html",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240509-sports-mike-tyson.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-11-14T09:20:00Z",
-      "content": "Mike Tyson steps into the ring. His youthful appearance belies the power he possesses.\r\nIt is 1985 and the heavyweight is about to make his professional boxing debut. One minute and 47 seconds later … [+7464 chars]"
+      "content": "Mike Tyson steps into the ring. His youthful appearance belies the power he possesses. Divider It is 1985 and the heavyweight is about to make his professional boxing debut. Nullam convallis euismod ex malesuada aliquam. Quisque arcu mauris, ultrices vel velit quis, hendrerit mattis urna. In sit amet massa nec lorem rhoncus facilisis. Morbi ut enim sit amet ligula ultricies gravida maximus a elit. Integer ac vulputate nisi. Fusce auctor nulla tincidunt lacus tincidunt fringilla. Duis lectus lacus, venenatis in gravida vel, mattis quis erat. Divider Nunc vestibulum metus posuere, porta ipsum vel, luctus dui. Nam mattis gravida nisi sit amet facilisis. Fusce ac erat arcu. Aenean bibendum aliquet metus nec hendrerit. Praesent venenatis ultrices augue a rutrum. Pellentesque finibus sem ut nisl fringilla, eu efficitur magna fermentum. Etiam sed neque tellus. Divider Sed fermentum egestas diam vitae eleifend. Integer eget gravida massa."
     },
     {
       "source": {
-        "id": 9,
+        "id": "9",
         "name": "Blazer's Edge"
       },
       "author": "Dave Deckard",
@@ -115,11 +115,11 @@
       "url": "https://www.blazersedge.com/2024/11/13/24296159/portland-trail-blazers-minnesota-timberwolves-final-score-boxscore-donovan-clingan-sharpe-scoot",
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/CncqckElYooY_MSNBBDD_Uf3Tao=/0x0:3881x2032/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25733000/2183957903.jpg",
       "publishedAt": "2024-11-14T05:50:00Z",
-      "content": "The Portland Trail Blazers got a rare win against a good team on Tuesday night when they blew out the Minnesota Timberwolves on their home floor. On Wednesday the same two teams played the second nig… [+6001 chars]"
+      "content": "The Portland Trail Blazers got a rare win against a good team on Tuesday night when they blew out the Minnesota Timberwolves on their home floor. Phasellus convallis tellus ac augue fermentum, non egestas metus sodales. Curabitur maximus lorem sapien, bibendum venenatis lacus hendrerit quis. Integer eget ante nulla. Praesent suscipit ullamcorper tristique. Aenean dolor odio, consequat eu blandit a, consequat non metus. Phasellus in consequat turpis. Divider Nam tellus lectus, tempor at bibendum non, posuere vel metus. Nulla placerat, lorem ac porttitor semper, velit mi imperdiet sapien, pretium ultricies libero libero vel velit. Morbi convallis et urna non pharetra. Donec lacus quam, lobortis non quam sit amet, elementum hendrerit ipsum. Pellentesque facilisis ultricies nulla, sed iaculis velit tempus eget. Suspendisse potenti. Divider Sed vitae rhoncus ante. Mauris quis risus facilisis, rhoncus turpis sed, tincidunt lorem. Duis dapibus justo et nibh tempus aliquet."
     },
     {
       "source": {
-        "id": 10,
+        "id": "10",
         "name": "Axios"
       },
       "author": "Erin Doherty",
@@ -128,11 +128,11 @@
       "url": "https://www.axios.com/2024/11/13/trump-attorney-general-matt-gaetz",
       "urlToImage": "https://images.axios.com/33nnPr6MJTyJ1-zNp7x2efAVEPc=/0x570:5707x3780/1366x768/2024/11/13/1731529846472.jpg",
       "publishedAt": "2024-11-14T05:46:46Z",
-      "content": "President-elect Trump said Wednesday that he will nominate Rep. Matt Gaetz (R-Fla.) to serve as attorney general during his second term. \r\nWhy it matters: The Florida congressman, attorney, and pro-T… [+1889 chars]"
+      "content": "President-elect Trump said Wednesday that he will nominate Rep. Matt Gaetz (R-Fla.) to serve as attorney general during his second term.  Divider Why it matters: Praesent gravida tincidunt interdum. Phasellus imperdiet vehicula nisl rutrum vestibulum. Quisque at lorem ut arcu sodales consectetur laoreet non mauris. Vestibulum dignissim elementum tortor eget efficitur. Divider In rhoncus eu neque sit amet iaculis. Suspendisse venenatis interdum risus, at hendrerit leo dictum in. Nulla ac enim ornare, congue augue nec, commodo lorem."
     },
     {
       "source": {
-        "id": 11,
+        "id": "11",
         "name": "Internet"
       },
       "author": "The Hacker News",
@@ -141,11 +141,11 @@
       "url": "https://thehackernews.com/2024/11/russian-hackers-exploit-new-ntlm-flaw.html",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaUtbznCX7hoxo_zg_8FmVf-bmHWLFv7k8xRL06GbF-nDsWc-3hW2W8DSrQ_2vuMOqIpoqRJxcMaxYQvG-G16Tt1wFVP-gcCWfmYKlxCihB14c-wJoWKKKv2hs8LK8lEQXXcvoZx0DcUFCwXmY6JNdD_w3x5ziWb-dzDnGpkUR_ytoaRJQDH4-x72JG4EE/s728-rw-e365/attack.png",
       "publishedAt": "2024-11-14T05:43:00Z",
-      "content": "A newly patched security flaw impacting Windows NT LAN Manager (NTLM) was exploited as a zero-day by a suspected Russia-linked actor as part of cyber attacks targeting Ukraine.\r\nThe vulnerability in … [+2695 chars]"
+      "content": "A newly patched security flaw impacting Windows NT LAN Manager (NTLM) was exploited as a zero-day by a suspected Russia-linked actor as part of cyber attacks targeting Ukraine. Divider Aliquam molestie malesuada maximus. Ut ultricies pulvinar convallis. Aenean quis risus a risus viverra sodales a aliquam nisl. Nam semper eget purus a laoreet. Donec lacinia nec orci at sollicitudin. Praesent eu sollicitudin dui. Phasellus libero turpis, sagittis eu feugiat sit amet, bibendum at nisl. Morbi dapibus libero placerat urna dictum, a dapibus erat tempor. Nullam pretium ipsum nec lacus tincidunt faucibus."
     },
     {
       "source": {
-        "id": 12,
+        "id": "12",
         "name": "Financial Times"
       },
       "author": "Ian Johnston, Michael Peel, Amy Borrett",
@@ -154,11 +154,11 @@
       "url": "https://www.ft.com/content/40d098ed-129a-4116-83a1-7941c58bd9cf",
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5f7f83f-f126-4cb6-af91-daea6d65aff7.jpg?source=next-barrier-page",
       "publishedAt": "2024-11-14T05:00:41Z",
-      "content": "Get complete digital access\r\n$75 per month\r\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%."
+      "content": "Get complete digital access Divider $75 per month Divider Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%. Mauris sit amet ante vitae nulla rhoncus varius vel quis dolor. Maecenas sapien quam, pretium et fermentum sit amet, pulvinar ut urna. Aliquam laoreet feugiat ante eget laoreet. Vestibulum in laoreet arcu, a lobortis lectus. Pellentesque et nunc at enim venenatis mollis. Phasellus sagittis lectus in leo pellentesque consequat. Quisque ut efficitur odio, vitae placerat tortor. Nullam et risus gravida, fringilla purus vel, viverra quam. Divider Etiam semper rutrum lectus, eu faucibus nulla vehicula quis. Mauris tristique nisl quis facilisis finibus. Quisque in tortor urna. Etiam convallis, ex ut consectetur vehicula, velit elit tincidunt libero, pulvinar auctor diam odio non libero. Phasellus dictum leo a pharetra cursus. Praesent quis facilisis quam, non vestibulum augue. Divider Donec porta faucibus cursus."
     },
     {
       "source": {
-        "id": 13,
+        "id": "13",
         "name": "BBC News"
       },
       "author": "BBC News",
@@ -167,11 +167,11 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gve4d8jljo",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/teoVeL2BgM3BLlXb_sqtVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/bbc_us_articles_995/9aa1fc3e898993322537e0113a9051c2",
       "publishedAt": "2024-11-13T22:22:21.3899355Z",
-      "content": "However, critics say the plans could put savers' money at risk.\r\n\"Conflating a government goal of driving investment in the UK and peoples retirement outcomes brings a danger because the risks are al… [+1228 chars]"
+      "content": "However, critics say the plans could put savers' money at risk. Divider \"Conflating a government goal of driving investment in the UK and peoples retirement outcomes brings a danger because the risks are Aliquam molestie malesuada maximus. Ut ultricies pulvinar convallis. Aenean quis risus a risus viverra sodales a aliquam nisl. Nam semper eget purus a laoreet. Donec lacinia nec orci at sollicitudin. Praesent eu sollicitudin dui. Phasellus libero turpis, sagittis eu feugiat sit amet, bibendum at nisl. Morbi dapibus libero placerat urna dictum, a dapibus erat tempor. Nullam pretium ipsum nec lacus tincidunt faucibus."
     },
     {
       "source": {
-        "id": "the-washington-post",
+        "id": "14",
         "name": "The Washington Post"
       },
       "author": "Ellen Nakashima, Marianne LeVine",
@@ -180,24 +180,24 @@
       "url": "https://www.washingtonpost.com/national-security/2024/11/13/tulsi-gabbard-trump-director-national-intelligence/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PS6NOQ46XTGUWREPSIRJPULTRY.JPG&w=1440",
       "publishedAt": "2024-11-14T03:02:00Z",
-      "content": "President-elect Donald Trump has selected Tulsi Gabbard, a former Democratic congresswoman from Hawaii turned staunch Trump ally, to be the next head of the U.S. intelligence community.\r\nThe selectio… [+292 chars]"
+      "content": "President-elect Donald Trump has selected Tulsi Gabbard, a former Democratic congresswoman from Hawaii turned staunch Trump ally, to be the next head of the U.S. intelligence community. Divider Donec egestas cursus metus, id ultrices massa scelerisque eu. Morbi sit amet quam tempus, tincidunt elit eget, lobortis ligula. Pellentesque ut dignissim lorem, quis efficitur ante. Cras facilisis lacus et rhoncus bibendum. Maecenas pellentesque mauris ultricies, iaculis nisi lacinia, tincidunt quam. Curabitur eros libero, maximus vel nibh a, ornare iaculis nulla. Sed tempus arcu vel porta fringilla. Nulla metus lorem, lacinia et neque posuere, congue gravida metus. Praesent ac lobortis metus. Divider Ut suscipit mollis mauris et tempor. Vestibulum vitae nunc ultricies, interdum velit et, aliquet lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. "
     },
     {
       "source": {
-        "id": 14,
+        "id": "15",
         "name": "CNET"
       },
       "author": "Marisa Garcia",
       "title": "Here Are the Top 10 Passwords for 2024, and They're All Embarrassing - CNET",
-      "description": "Maybe \"secret\" isn't the best word one could choose for a password. Ditto \"123456.\"",
+      "description": "Maybe \"secret\" isn't the best word one could choose for a password. Ditto \"13456.\"",
       "url": "https://www.cnet.com/tech/services-and-software/here-are-the-top-10-passwords-for-2024-and-theyre-all-embarrassing/",
       "urlToImage": "https://www.cnet.com/a/img/resize/24cc0671619738dda0dfb16f27c868a13615ac62/hub/2024/11/14/a7b7a867-2cd1-4dbe-9c24-55f1a96393bb/person-using-password-authenticator-gettyimages-1431662905-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2024-11-14T01:14:00Z",
-      "content": "How do so many people get hacked? Apparently, many of them don't give much thought to choosing their passwords, both for personal and for work accounts. That's according to the sixth annual analysis … [+1953 chars]"
+      "content": "How do so many people get hacked? Apparently, many of them don't give much thought to choosing their passwords, both for personal and for work accounts. That's according to the sixth annual analysis Praesent gravida tincidunt interdum. Phasellus imperdiet vehicula nisl rutrum vestibulum. Quisque at lorem ut arcu sodales consectetur laoreet non mauris. Vestibulum dignissim elementum tortor eget efficitur. Divider In rhoncus eu neque sit amet iaculis. Suspendisse venenatis interdum risus, at hendrerit leo dictum in. Nulla ac enim ornare, congue augue nec, commodo lorem."
     },
     {
       "source": {
-        "id": 15,
+        "id": "16",
         "name": "The Hill"
       },
       "author": "Lauren Irwin",
@@ -206,11 +206,11 @@
       "url": "https://thehill.com/policy/healthcare/4989492-ozempic-and-wegovy-may-be-beneficial-in-fighting-alcohol-addiction-study/",
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/AP23182605436072.jpg?w=1280",
       "publishedAt": "2024-11-14T00:03:00Z",
-      "content": "Skip to content\r\nThe weight loss drugs Ozempic and Wegovy may be beneficial for people struggling with alcohol addiction, a study published Wednesday in JAMA Psychiatry said.\r\nThe study examined abou… [+1490 chars]"
+      "content": "Skip to content Divider The weight loss drugs Ozempic and Wegovy may be beneficial for people struggling with alcohol addiction, a study published Wednesday in JAMA Psychiatry said. Divider roin scelerisque sem ex, id vestibulum metus mollis luctus. Nulla facilisi. Nulla vel arcu nec arcu pharetra condimentum. Divider Etiam fringilla ultricies nisi eget tristique. Morbi cursus dui id feugiat interdum. Praesent dolor metus, lobortis eu nunc sed, tempus ultrices risus. Divider Cras tincidunt in magna at dictum. Mauris a rutrum lacus. Sed tempus justo sit amet pharetra vehicula. Suspendisse vehicula scelerisque lacinia. Maecenas varius velit ac orci ultricies tempor aliquet at mauris. Sed mollis felis in pulvinar semper."
     },
     {
       "source": {
-        "id": 16,
+        "id": "17",
         "name": "Google News"
       },
       "author": "Vox.com",
@@ -219,11 +219,11 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWZSWVo4WEVqSnZsQWFoaURJRVEzbmdMS2MxOE9QeUFZWDlxbW1BR093MVNXNDQ5OGFjbHVCVGt3SS1qTDM2VFFtdnphdmtTbU5XNEpuQ08zaVIxM21PU251WG9GR1ozd2JNUzluajVpMS1NOHY1MEJ1RTRDX0U1ZVRiVktjNkxUeWQtMmhXYWgxQQ?oc=5",
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/11-NGSPS2024SOL_NGPS2024SOL_1025_ThreeSisters2_SMS_DJIM_001_DJI_20241024154819_0016_D.jpg?quality=90&strip=all&crop=0%2C5.4880108071597%2C100%2C89.023978385681&w=750",
       "publishedAt": "2024-11-14T00:01:00Z",
-      "content": null
+      "content": "Donec egestas cursus metus, id ultrices massa scelerisque eu. Morbi sit amet quam tempus, tincidunt elit eget, lobortis ligula. Pellentesque ut dignissim lorem, quis efficitur ante. Cras facilisis lacus et rhoncus bibendum. Maecenas pellentesque mauris ultricies, iaculis nisi lacinia, tincidunt quam. Curabitur eros libero, maximus vel nibh a, ornare iaculis nulla. Divider Sed tempus arcu vel porta fringilla. Nulla metus lorem, lacinia et neque posuere, congue gravida metus. Praesent ac lobortis metus. Ut suscipit mollis mauris et tempor. Vestibulum vitae nunc ultricies, interdum velit et, aliquet lacus. "
     },
     {
       "source": {
-        "id": 17,
+        "id": "18",
         "name": "Politico"
       },
       "author": "Ursula Perano, Anthony Adragna, Katherine Tully-McManus",
@@ -232,11 +232,11 @@
       "url": "https://www.politico.com/news/2024/11/13/thunes-trump-gop-00189473",
       "urlToImage": "https://www.allsides.com/sites/default/files/styles/news_large_image/public/5007985.jpg?itok=o7wdlMba",
       "publishedAt": "2024-11-13T23:57:35Z",
-      "content": "His ability to navigate his way to victory in this political environment is an early signal of how Thune plans to try to balance leading a historically bipartisan institution and appeasing Trump when… [+4681 chars]"
+      "content": "His ability to navigate his way to victory in this political environment is an early signal of how Thune plans to try to balance leading a historically bipartisan institution and appeasing Trump whenCras facilisis lacus et rhoncus bibendum. Maecenas pellentesque mauris ultricies, iaculis nisi lacinia, tincidunt quam. Curabitur eros libero, maximus vel nibh a, ornare iaculis nulla. Sed tempus arcu vel porta fringilla. Nulla metus lorem, lacinia et neque posuere, congue gravida metus. Praesent ac lobortis metus. Divider Ut suscipit mollis mauris et tempor. Vestibulum vitae nunc ultricies, interdum velit et, aliquet lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
     },
     {
       "source": {
-        "id": 18,
+        "id": "19",
         "name": "Buzzfeed"
       },
       "author": "Mychal Thompson",
@@ -245,11 +245,11 @@
       "url": "https://www.buzzfeed.com/mychalthompson/dave-coulier-stage-3-non-hodgkin-lymphoma",
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/13/22/enhanced/5a9ddd06cfe5/original-933-1731538285-2.jpg?crop=3001:1575;0,0%26downsize=1250:*",
       "publishedAt": "2024-11-13T23:27:25Z",
-      "content": null
+      "content": "Mauris vulputate eros et dolor iaculis rhoncus. In interdum luctus lorem quis maximus. Sed magna mi, egestas et felis non, commodo mollis est. Aliquam ut velit dui. Etiam facilisis mi mi, lobortis fringilla elit efficitur fermentum. Divider Aliquam convallis condimentum urna, tempor dignissim elit efficitur ac."
     },
     {
       "source": {
-        "id": 19,
+        "id": "20",
         "name": "Rolling Stone"
       },
       "author": "Miles Klee",
@@ -258,11 +258,11 @@
       "url": "http://www.rollingstone.com/culture/culture-features/elon-musk-doge-meme-history-trump-1235165004/",
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/11/doge-elon-musk.jpg?crop=0px%2C56px%2C1798px%2C1015px&resize=1600%2C900",
       "publishedAt": "2024-11-13T23:03:31Z",
-      "content": "In a historic and embarrassing first, an old Reddit meme may become an actual government agency in Donald Trump‘s second term as president, thanks to Elon Musk. Months before Trump’s reelection, the … [+7510 chars]"
+      "content": "In a historic and embarrassing first, an old Reddit meme may become an actual government agency in Donald Trump‘s second term as president, thanks to Elon Musk. Months before Trump’s reelection, the Donec feugiat, eros et lacinia blandit, neque nibh congue sapien, eu elementum ligula urna sed lorem. Morbi placerat ex non turpis sodales, vel elementum eros tristique. Divider Suspendisse consectetur, nibh eget porta sollicitudin, elit justo vulputate sapien, eget venenatis ligula metus et elit. Donec suscipit varius varius. Cras efficitur mauris justo, a interdum mi dignissim vitae. Aliquam sodales ullamcorper scelerisque."
     },
     {
       "source": {
-        "id": 20,
+        "id": "21",
         "name": "BBC News"
       },
       "author": "BBC News",
@@ -271,7 +271,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c1dpz0ewvg7o",
       "urlToImage": "https://pharmaceutical-journal.com/wp-content/uploads/2024/11/NPAvote-927x617.jpg",
       "publishedAt": "2024-11-14T00:52:19.8276711Z",
-      "content": "The Pharmacy First service, launched in January in England, extended the range of services chemists can provide, including treatment of sinusitis, earache and shingles.\r\nMembers are not being asked t… [+1532 chars]"
+      "content": "The Pharmacy First service, launched in January in England, extended the range of services chemists can provide, including treatment of sinusitis, earache and shingles. Divider Members are not being asked Pellentesque et nunc at enim venenatis mollis. Phasellus sagittis lectus in leo pellentesque consequat. Quisque ut efficitur odio, vitae placerat tortor. Nullam et risus gravida, fringilla purus vel, viverra quam. Etiam semper rutrum lectus, eu faucibus nulla vehicula quis. Mauris tristique nisl quis facilisis finibus. Quisque in tortor urna. Etiam convallis, ex ut consectetur vehicula, velit elit tincidunt libero, pulvinar auctor diam odio non libero. Divider Phasellus dictum leo a pharetra cursus. Praesent quis facilisis quam, non vestibulum augue. Donec porta faucibus cursus."
     }
   ]
 }
