@@ -1,7 +1,7 @@
 {{page-title "Article"}}
 
-<section>
-  <div class="pt-24">
+<section class="py-5">
+  <div>
     <LinkTo
       @route="news-list"
       class="text-teal-600 font-semibold text-lg hover:underline flex items-center"
@@ -12,7 +12,7 @@
     </LinkTo>
   </div>
   <div
-    class="relative flex flex-col md:flex-row w-full my-4 bg-white shadow-sm border border-slate-200 rounded-lg"
+    class="relative flex flex-col md:flex-row w-full my-4 bg-white dark:bg-slate-800 shadow-sm border border-slate-200 rounded-lg"
   >
 
     <div class="relative p-2.5 md:w-2/5 shrink-0 overflow-hidden">
@@ -27,13 +27,15 @@
       <div
         class="mb-4 rounded-full bg-teal-600 py-0.5 px-2.5 border border-transparent text-xs text-white transition-all shadow-sm w-20 text-center"
       >News</div>
-      <h4 class="mb-2 text-slate-800 text-xl font-semibold">
+      <h4 class="mb-2 text-slate-800 dark:text-slate-100 text-xl font-semibold">
         {{@model.title}}
       </h4>
-      <p class="mb-8 text-slate-600 leading-normal font-light">
+      <p
+        class="mb-8 text-slate-600 dark:text-slate-400 leading-normal font-light"
+      >
         {{@model.description}}
       </p>
-      <p>{{divider @model.content}}</p>
+      <p class="dark:text-slate-50">{{divider @model.content}}</p>
 
     </div>
   </div>

@@ -1,9 +1,11 @@
 {{yield}}
 
 <div
-  class="relative flex flex-col justify-between p-4 my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-full"
+  class="relative flex flex-col justify-between p-4 my-6 bg-white dark:bg-slate-800 shadow-sm border border-slate-200 rounded-lg w-full"
 >
   <div class="flex flex-col gap-3">
+    <p class="text-slate-600 dark:text-slate-400">Category:
+      {{@article.source.name}}</p>
 
     <div class="relative h-72 overflow-hidden text-white rounded-md">
       <img
@@ -12,13 +14,13 @@
         class="object-cover w-full h-full"
       />
     </div>
-    <h6 class="text-slate-800 text-xl font-semibold">
+    <h6 class="text-slate-800 dark:text-slate-100 text-xl font-semibold">
       {{@article.title}}
     </h6>
-    <p class="text-slate-600 leading-normal font-light">
+    <p class="text-slate-600 dark:text-slate-400 leading-normal font-light">
       {{truncate @article.description}}
     </p>
-    <p>{{truncate @article.content}}</p>
+    <p class="dark:text-slate-50">{{truncate @article.content}}</p>
 
   </div>
 
@@ -26,9 +28,9 @@
     <div class="flex items-center justify-between">
       <div class="flex flex-col text-sm">
         <span
-          class="text-slate-800 font-semibold w-40 truncate text-ellipsis"
+          class="text-slate-800 dark:text-slate-100 font-semibold w-40 truncate text-ellipsis"
         >{{@article.author}}</span>
-        <span class="text-slate-600">
+        <span class="text-slate-600 dark:text-slate-400">
           {{date-format @article.publishedAt}}
         </span>
       </div>
@@ -37,7 +39,7 @@
     <div class="px-4 pb-4 pt-0 mt-2">
       <LinkTo @route="article" @model={{@article.source.id}}>
         <button
-          class="rounded-md bg-slate-800 py-2 px-4 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-slate-700 focus:shadow-none active:bg-slate-700 hover:bg-slate-700 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+          class="rounded-md bg-slate-800 dark:bg-slate-700 py-2 px-4 border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-slate-700 dark:focus:bg-slate-600 focus:shadow-none active:bg-slate-700 dark:active:bg-slate-600 hover:bg-slate-700 dark:hover:bg-slate-600 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
           type="button"
         >
           Read more

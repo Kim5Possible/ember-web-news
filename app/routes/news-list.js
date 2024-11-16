@@ -7,4 +7,9 @@ export default class NewsListRoute extends Route {
       .then((response) => response.json())
       .then((data) => data.articles);
   }
+
+  setupController(controller, model) {
+    super.setupController(controller, model);
+    controller.set('model', model);
+  }
 }

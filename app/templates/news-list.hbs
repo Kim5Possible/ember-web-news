@@ -1,8 +1,20 @@
 {{page-title "NewsList"}}
 
-<div class="pt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-  {{#each @model as |article|}}
-    {{article-card article=article}}
-  {{/each}}
+{{header onSearch=(fn this.updateSearchQuery)}}
+<div class="pt-24">
+  <select
+    class="py-2 px-3 rounded-full border border-slate-300 bg-white dark:bg-teal-600 focus:outline-none text-sm dark:text-slate-100"
+    id="sort-select"
+    {{on "change" (fn this.updateSortList)}}
+  >
+    <option value="category">Sort by Category</option>
+    <option value="date">Sort by Date</option>
+    <option value="author">Sort by Author</option>
+  </select>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    {{#each this.filteredArticles as |article|}}
+      {{article-card article=article}}
+    {{/each}}
 
+  </div>
 </div>

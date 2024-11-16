@@ -1,5 +1,8 @@
 {{page-title "EmberWebNews"}}
 
-{{header}}
-
-<div>{{outlet}}</div>
+<div
+  class="min-h-screen bg-white dark:bg-slate-800 {{if this.darkMode 'dark'}}"
+>
+  <div class="max-w-[1080px] mx-auto">{{outlet}}
+  </div>
+</div>
