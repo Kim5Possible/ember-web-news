@@ -1,11 +1,11 @@
 {{page-title "NewsList"}}
 
-{{header onSearch=(fn this.updateSearchQuery)}}
+{{header onSearch=this.updateSearchQuery}}
 <div class="pt-24">
   <select
     class="py-2 px-3 rounded-full border border-slate-300 bg-white dark:bg-teal-600 focus:outline-none text-sm dark:text-slate-100"
     id="sort-select"
-    {{on "change" (fn this.updateSortList)}}
+    {{on "change" this.updateSortList}}
   >
     <option value="category">Sort by Category</option>
     <option value="date">Sort by Date</option>

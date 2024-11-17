@@ -8,4 +8,12 @@ module('Unit | Route | article', function (hooks) {
     let route = this.owner.lookup('route:article');
     assert.ok(route);
   });
+
+  test('it fetches data', async function (assert) {
+    let route = this.owner.lookup('route:article');
+
+    let model = await route.model({ id: 1 });
+
+    assert.ok(model, 'it fetches data');
+  });
 });

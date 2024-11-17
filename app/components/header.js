@@ -1,9 +1,6 @@
 import Component from '@glimmer/component';
-import { inject } from '@ember/service';
 
 export default class Header extends Component {
-  // application = inject('application');
-
   searchArticles = (event) => {
     const searchQuery = event.target.value;
     this.args.onSearch(searchQuery);

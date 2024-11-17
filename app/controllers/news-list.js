@@ -10,8 +10,15 @@ export default class NewsListController extends Controller {
     const query = this.searchQuery.toLowerCase();
     return this.model.filter((article) => {
       const title = article.title.toLowerCase();
+      const description = article.description?.toLowerCase();
+      const category = article.source.name.toLowerCase();
       const content = article.content.toLowerCase();
-      return title.includes(query) || content.includes(query);
+      return (
+        title.includes(query) ||
+        content.includes(query) ||
+        description?.includes(query) ||
+        category.includes(query)
+      );
     });
   }
 

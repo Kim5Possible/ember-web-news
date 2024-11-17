@@ -10,6 +10,7 @@ export default class ArticleController extends Controller {
       .writeText(url)
       .then(() => {
         this.copiedLink = url;
+
         setTimeout(() => {
           this.copiedLink = null;
         }, 2000);
